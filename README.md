@@ -73,4 +73,5 @@ The sript for the lots combined:
     - t.test(mecha_coil$PSI,mu=1500)
     
     results illustrated in **Fig #6**:
-    ![image](https://user-images.githubusercontent.com/104601282/194699326-b7950c02-6f5c-466e-bbca-f85c7e960ba4.png)
+    
+![image](https://user-images.githubusercontent.com/104601282/194699326-b7950c02-6f5c-466e-bbca-f85c7e960ba4.png)
