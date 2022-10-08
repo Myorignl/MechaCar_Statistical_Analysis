@@ -55,7 +55,7 @@ Lot Summary illustrated in **Fig #4**
 Upon review of the illusrated data in **Fig #4**  Lots 1 and 2 meet specifications, Lot 3 curently exceeds the set standard for Var_PSI by 70.28%. 
 
 
-###### *Deliverable 2* 
+###### *Deliverable 3* 
 
 ## T-Tests on Suspension Coils
 
@@ -75,3 +75,25 @@ The sript for the lots combined:
     results illustrated in **Fig #6**:
     
 ![image](https://user-images.githubusercontent.com/104601282/194699326-b7950c02-6f5c-466e-bbca-f85c7e960ba4.png)
+
+###### *Deliverable 4*
+
+## Study Design: MechaCar vs Competition
+
+This study is designed to compare performance of MechaCar vehicles to other maufacturers. In order to acomplish this we reviewed the data as a whole ad then created subdivisions to focus on specific metrics.
+
+The Hypothesis: 
+
+ - The Null (Ho) - Vehicles manfactured by MerChar deliver the same MPG than the competitors. 
+ - The Alternatve (Ha) - Competitors provide better MPG for their vehicles 
+
+Performance whise MerchaCar mpg are comparable to other manfacturers.To compare vehicles we reviewed MerChar data that provided vehicle lenght, weight, ground clearance, spoiler angle and mpg. We also reviewed the Mecha_ Coil data that provided the other manufacturers lot number, vehicle ID and PSI. 
+
+It was noted that ground clearance and vehice lenght may influence vehicles mpg. Vehicles should be compared by specific vehicle type for more accurate results. To
+The review it was identified that vehicles in lot 3 did not meet the set standard for Var_PSI. 
+See Illustration bellow: 
+
+![image](https://user-images.githubusercontent.com/104601282/194701038-0ade2a88-9d1e-47cf-92a7-f27e22148db2.png)
+
+ 
+
