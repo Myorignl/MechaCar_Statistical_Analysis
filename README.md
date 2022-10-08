@@ -2,6 +2,8 @@
 
 ## Overview
 
+Jerremy is assigned a project: AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress.the goal of this analysos is to provide insight to Autos R us on what may be causing trouble.  
+
 
 ###### *Deliverable 1* 
 ## Linear Regression to Predict MPG
